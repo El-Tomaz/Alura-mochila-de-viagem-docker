@@ -1,1 +1,1 @@
-    Olá! Esse é o meu primeiro projeto utilizando Docker 🐳, se trata de um site simples onde você pode montar a sua listinha de itens para viajem, mas eu tô muito feliz e animado pra aprender a usar containers! :)
+Olá! Esse é o meu primeiro projeto utilizando Docker 🐳, se trata de um site simples onde você pode montar a sua listinha de itens para viajem, mas eu tô muito feliz e animado pra aprender a usar containers! :)
